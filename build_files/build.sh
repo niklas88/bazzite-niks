@@ -9,4 +9,4 @@ cp -avf "/ctx/system_files"/. /
 dnf5 install -y tmux zsh htop vim neovim foot-terminfo stow
 
 ### Install graphical and nice to haves
-dnf5 install -y foot waypipe
+dnf5 install -y foot waypipe syncthing
